@@ -198,9 +198,26 @@ All files are in `media/`, resized to 1600px max on the long side, JPEG quality 
 | 02-burger-cross-section.jpg | Close-up of a burger cut in half on checkered paper (posted on the shop's FB around its "Best burgers in town!" post). | https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=882892290513475 |
 | 03-chef-statue-with-catering-menu-and-business-card.jpg | Chef statue holding the shop's business card (red "PIZZA" logo) next to their printed "#1 Pizza in Town" catering menu, against an "Oven Fresh Pizza" box. Good brand and logo reference. | https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=834814148654623 |
 | 04-steak-tip-salad-customer-photo.jpg | Steak tip salad with pita in a takeout container. Cropped from a customer's post screenshot that the shop shared on its FB. | https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1103540468448655 (cropped to the photo area) |
+| fb01-storefront-teddys-lounge-sign.jpg | Storefront with the "Teddy's Lounge / Supreme House of Pizza" signage. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb02-outdoor-sign-temperature.jpg | Roadside pole sign for Supreme House of Pizza and Teddy's Lounge with a Coca-Cola temperature display. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb04-teddys-lounge-shirt-logo.jpg | Red staff shirt printed "Teddy's Lounge 895-9500 Supreme House of Pizza" (brand/logo reference; small). | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb05-two-cheese-pizzas-on-table.jpg | Two pizzas on a booth table. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb06-appetizer-platter-table.jpg | Appetizer platter with wraps, veggies and a cheese pizza. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb07-appetizer-buffet-platter.jpg | Appetizer and buffet platter. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb08-catering-trays-lasagna-chicken.jpg | Catering trays of baked pasta, lasagna and chicken. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb09-chicken-soup-bowl.jpg | Chicken noodle soup in a bowl. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb10-chowder-bowl-checkered-cloth.jpg | Chowder in a bowl on a red checkered cloth. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb11-bloody-mary-bar-drink.jpg | Garnished Bloody Mary at the bar (Teddy's Lounge). | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb12-dining-room-interior-busy.jpg | Busy dining room with booths and diners. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb13-dining-room-interior-tvs.jpg | Dining room with TVs and diners. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb14-bar-booth-interior-coors-sign.jpg | Lounge booth area with a Coors beer sign and TV. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb15-chalkboard-specials-board.jpg | Coors Light chalkboard specials board. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb16-staff-holiday-dining-room.jpg | Staff in holiday outfits in the dining room. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb17-group-with-motorcycles-teddys-sign.jpg | Patrons with motorcycles under the Teddy's Lounge sign (small). | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
+| fb18-motorcycle-event-street.jpg | Motorcycle event on the street out front. | Shop's Facebook page Photos (signed-in browse, 2026-11-03) |
 
 **Media notes:**
 - **Website:** it has only four tiny generic stock food photos (187px), a stock "4 pizzas" promo image (commented out) and a Coca-Cola logo. None are the shop's own, so none are included.
-- **Facebook:** all ~14 publicly visible images were checked. The rest are holiday-closing text graphics, a "Help Wanted" clip-art profile picture, a football/bartender text graphic and a snowed-in car photo, none of which are useful site photos. A customer's video review exists (https://www.facebook.com/crazydream3rs/videos/1721590699131568/, 1 min 55 s), but the logged-out download returned an error and the content is third-party, so no video is included.
-- **Instagram:** no account found.
-- **Result:** only 4 real photos. Claude should design so it doesn't depend on many photos (strong type, menu-forward layout), or Graham can ask the shop for photos later.
+- **Facebook:** browsed signed in on 2026-11-03. The page has about 92 photos, roughly 70% text graphics (holiday notices, Happy Hour boards, game-day posters, Christmas cards) plus repeat shots; those were skipped. 21 real photos are included. The page has no videos (a customer's video review exists but is third-party, so it isn't included).
+- **Instagram:** no account for the Raymond NH shop. A signed-in Instagram search found only a same-named shop in North Andover, MA, which is a different business.
+- **Result:** 21 real photos covering the storefront, food, catering, the dining room, the lounge and the bike-night crowd. Many are phone photos at 800–1440px, fine for web use.
