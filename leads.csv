@@ -1,13 +1,14 @@
-date_added,shop_name,town,state,website,phone,rating,file
-2026-10-27,Mickey's N.Y. Pizza,Hudson & Derry,NH,https://www.mickeysnypizza.com/,"Hudson (603) 883-0444, Derry (603) 552-3503",9,leads/2026-10-27-mickeys-ny-pizza.md
-2026-10-27,Rochester House of Pizza,East Rochester,NH,https://www.rochesterhouseofpizza.net/,(603) 335-6145,9,leads/2026-10-27-rochester-house-of-pizza.md
-2026-10-28,Golden Acres Pizza Market,Goffstown,NH,https://pizzamarketgoffstown.com/,(603) 623-0899,9,leads/2026-10-28-golden-acres-pizza-market.md
-2026-10-28,Uncle Joey's,Merrimack,NH,https://www.unclejoeysnh.com/,(603) 424-5693,8,leads/2026-10-28-uncle-joeys-merrimack.md
-2026-10-29,Charlestown House of Pizza,Charlestown,NH,https://charlestownnhpizza.com/,603-826-3700,8,leads/2026-10-29-charlestown-house-of-pizza.md
-2026-10-29,Tremont House of Pizza,Claremont,NH,https://tremonthouseofpizza.com/,603-542-8017,7,leads/2026-10-29-tremont-house-of-pizza.md
-2026-10-30,Farmington House of Pizza,Farmington,NH,https://www.farmingtonhouseofpizza.com/,(603) 755-9001,9,leads/2026-10-30-farmington-house-of-pizza.md
-2026-10-30,Gilford House of Pizza,Gilford,NH,https://www.gilfordhouseofpizza.com/,(603) 528-7788,8,leads/2026-10-30-gilford-house-of-pizza.md
-2026-11-02,Papa Jay's Pizzeria,Dover,NH,https://www.papajays.net/,(603) 750-7272,9,leads/2026-11-02-papa-jays-pizzeria.md
-2026-11-02,Enfield House of Pizza,Enfield,NH,https://www.enfieldhouseofpizza.com/,"603-632-5800, 603-632-7211",8,leads/2026-11-02-enfield-house-of-pizza.md
-2026-11-03,Jaffrey Pizza Barn,Jaffrey,NH,https://jaffreypizzabarn.com/,(603) 532-8383,8,leads/2026-11-03-jaffrey-pizza-barn.md
-2026-11-03,Millo's Pizza & Grill,Barrington,NH,https://millospizza.com/,(603) 664-8871,8,leads/2026-11-03-millos-pizza-and-grill.md
+date_added,shop_name,town,state,website,facebook,instagram,phone,rating,file
+2026-10-27,Mickey's N.Y. Pizza,Hudson & Derry,NH,https://www.mickeysnypizza.com/,,,"Hudson (603) 883-0444, Derry (603) 552-3503",9,leads/2026-10-27-mickeys-ny-pizza.md
+2026-10-27,Rochester House of Pizza,East Rochester,NH,https://www.rochesterhouseofpizza.net/,,,(603) 335-6145,9,leads/2026-10-27-rochester-house-of-pizza.md
+2026-10-28,Golden Acres Pizza Market,Goffstown,NH,https://pizzamarketgoffstown.com/,,,(603) 623-0899,9,leads/2026-10-28-golden-acres-pizza-market.md
+2026-10-28,Uncle Joey's,Merrimack,NH,https://www.unclejoeysnh.com/,,,(603) 424-5693,8,leads/2026-10-28-uncle-joeys-merrimack.md
+2026-10-29,Charlestown House of Pizza,Charlestown,NH,https://charlestownnhpizza.com/,,,603-826-3700,8,leads/2026-10-29-charlestown-house-of-pizza.md
+2026-10-29,Tremont House of Pizza,Claremont,NH,https://tremonthouseofpizza.com/,,,603-542-8017,7,leads/2026-10-29-tremont-house-of-pizza.md
+2026-10-30,Farmington House of Pizza,Farmington,NH,https://www.farmingtonhouseofpizza.com/,,,(603) 755-9001,9,leads/2026-10-30-farmington-house-of-pizza.md
+2026-10-30,Gilford House of Pizza,Gilford,NH,https://www.gilfordhouseofpizza.com/,,,(603) 528-7788,8,leads/2026-10-30-gilford-house-of-pizza.md
+2026-11-02,Papa Jay's Pizzeria,Dover,NH,https://www.papajays.net/,,,(603) 750-7272,9,leads/2026-11-02-papa-jays-pizzeria.md
+2026-11-02,Enfield House of Pizza,Enfield,NH,https://www.enfieldhouseofpizza.com/,,,"603-632-5800, 603-632-7211",8,leads/2026-11-02-enfield-house-of-pizza.md
+2026-11-03,Jaffrey Pizza Barn,Jaffrey,NH,https://jaffreypizzabarn.com/,,,(603) 532-8383,8,leads/2026-11-03-jaffrey-pizza-barn.md
+2026-11-03,Millo's Pizza & Grill,Barrington,NH,https://millospizza.com/,,,(603) 664-8871,8,leads/2026-11-03-millos-pizza-and-grill.md
+2026-11-03,Supreme House of Pizza & Teddy's Lounge,Raymond,NH,https://www.raymondsupremepizza.com/,https://www.facebook.com/p/Supreme-Pizza-Teddys-Lounge-100063781351293/,none found,603-895-9500,8,leads/2026-11-03-supreme-house-of-pizza-raymond/
